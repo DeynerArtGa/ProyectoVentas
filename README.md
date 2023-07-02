@@ -19,3 +19,7 @@ Este proyecto simula un sistema de ventas y utiliza Java + Swing.
 * Swing
 ### IDE
 * Netbeans IDE 8.2
+### Funciones
+* filas
+* pilas/colas
+* archivo
